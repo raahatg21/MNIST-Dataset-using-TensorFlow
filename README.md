@@ -1,2 +1,14 @@
 # MNIST-Dataset-using-TensorFlow
-Predicted handwritten digits on MNIST Datastes using TensorFlow. Initially trained on Google Colab.
+
+  The Dataset consists of 28 x 28 greyscale images of handwritten digits (0 through 9). And our goal is to identify the digit. There are 60,000 training examples, and further 10,000 test examples.
+  
+  I've implemented three different basic techniques: simple logistic regression (), simple neural network (), and convnet().
+  
+  All implementations are made using **TensorFlow**. This example was inspired by **TensorFlow Cookbook** written by Antonio Gulli and Amita Kapoor.
+  
+  The files are created in Google Colab. Link is included.
+  
+  Comments and Suggestions are welcome :)
+  
+  Author: Raahat Gupta
+  Date: 24/09/2018
